@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "Peer Review"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
